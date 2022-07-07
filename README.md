@@ -12,6 +12,6 @@ Performing graphic analysis of the data and extracting various conclusions.
 Performing the DBSCAN clustering algorithm to find outlier-days in which demand or production didn't have the expected values.
 
 ## Project 2
-Taking the "amazon.csv" dataset and creating a word vector for each review. Then, we're using a RandomForest Classifier model to predict the rating corresponding to each review. Two approaches: multi-label classification with 5 labels (ratings 1-5) and multi-label classification with 3 labels, describing the positivity of each review.
+Taking the "amazon.csv" dataset and creating a word vector for each review. Then, we're using a RandomForest Classifier model to predict the rating corresponding to each review. Two approaches: multi-label classification with 5 labels (ratings 1-5) and multi-label classification with 3 labels, describing the positivity of each review (Positive, Neutral and Negative).
 
 *The datasets for both projects can be found and downloaded [here](https://drive.google.com/file/d/1bRmxBu-U-2jlNnEk8e2ulpTaMYBOq6Mz/view?usp=sharing).*

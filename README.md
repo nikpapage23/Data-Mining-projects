@@ -2,7 +2,7 @@
 
 A university project created for the lesson ***"Data Mining and Learning Algorithms"***.
 
-<img src="https://github.com/nikpapage23/Data-Mining-projects/blob/main/dm_logo.jpg" width="250" height="500">
+<img src="https://github.com/nikpapage23/Data-Mining-projects/blob/main/dm_logo.jpg" width="600" height="500">
 
 ## Project 1
 We are using datasets corresponding to the electrical energy needs of the State of California and the sources from which they are met for each day of the year from 1/1/2019 through 12/31/2021 at a five-minute time resolution.
